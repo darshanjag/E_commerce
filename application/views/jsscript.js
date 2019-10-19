@@ -1,0 +1,3 @@
+	function clickMethod(){
+		alert('hello');
+	}
